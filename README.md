@@ -5,7 +5,7 @@ I'm currently pursuing my Diploma at Nettur Technical Training Foundation. I am 
 
 My portfolio: [Click Here](https://harsha0304.github.io/portfolio/)
 
-[![](https://visitcount.itsvg.in/api?id=Harsha0304&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Harsha0304)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-seshadri-86b7b1210/)
