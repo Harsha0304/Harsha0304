@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Seshadri</h1>
 
 # 💫 About Me:
-I'm currently pursuing my Diploma at Nettur Technical Training Foundation. I am interested in development of web projects. Furthermore, I like to contribute to open source projects.
+I am passionate about the development of web projects and enjoy contributing to open-source projects. Additionally, I am working as a DevOps and Infrastructure professional at ABI Health Technologies, where I focus on enhancing infrastructure management and DevOps practices. I strive to improve my skills and collaborate with like-minded developers to build impactful solutions.
 
 My portfolio: [Click Here](https://harsha0304.github.io/portfolio/)
 
